@@ -8,7 +8,7 @@ Follow the Getting Started guide and build websites with Tailwind CSS. Also, fol
 
 1.  Clone the repository
 
-         git clone https://github.com/ThirusOfficial/tailwind-css-starter-postcss.git {{ your project name }}
+         git clone https://git@github.com:rukotanafreddy250/Tailwind-sandbox-boiler-plate-.git {{ your project name }}
 
     Alternately you can download the zip file and unzip it.
 
